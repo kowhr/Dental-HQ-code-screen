@@ -1,0 +1,16 @@
+{
+  "name": "dentalhq",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Dental HQ code screen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bynee kowhr Waples",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
